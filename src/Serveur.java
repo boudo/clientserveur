@@ -1,7 +1,7 @@
 
 public class Serveur {
 
-	arrayLyste< Client> mesClient
+	//arrayLyste< Client> mesClient
 	
 	public Serveur() {
 		
